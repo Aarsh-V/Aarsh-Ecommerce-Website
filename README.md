@@ -49,25 +49,6 @@
 - **Product Listing:** Grid and list views for products, including sorting options.
 - **Page Navigation:** Smooth and dynamic navigation using React Router.
 
----
-
-### Screenshots
-
-#### Home Page
-
-![Home Page](C:\Users\DELL\Pictures\Screenshots\Screenshot/Screenshot (300))
-
-#### Product Details
-
-![Product Details](https://example.com/images/productdetails.png)
-
-#### Cart
-
-![Cart](https://example.com/images/cart.png)
-
-#### Checkout
-
-![Checkout](https://example.com/images/checkout.png)
 
 
 
